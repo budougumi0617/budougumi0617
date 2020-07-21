@@ -12,7 +12,7 @@ I'm Gopher from Tokyo.
 
 
 
-![budougumi0617's github stats](https://github-readme-stats.vercel.app/api?username=budougumi0617&show_icons=true)
+![budougumi0617's github stats](https://github-readme-stats.vercel.app/api?username=budougumi0617&show_icons=true&theme=cobalt)
 
 ### 🔍 Interest
 
