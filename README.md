@@ -7,7 +7,7 @@
 
 I'm Gopher from Tokyo.
 
-- Software Engineer at [BASE BANK](https://basebank.jp/).
+- Software Engineer at [@LayerXcom](https://github.com/LayerXcom).
 - Commit to [golang.tokyo](https://golangtokyo.github.io/), and [Go Conference](https://gocon.jp/).
 
 
